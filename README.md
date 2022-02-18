@@ -1,7 +1,14 @@
-JWT*SECRET =
-REFRESH_TOKEN_SECRET =
-SESSION_EXPIRY = 60 * 15
-REFRESH*TOKEN_EXPIRY = 60 * 60 _ 24 _ 30
-MONGO_DB_CONNECTION =
-COOKIE_SECRET =
-WHITELIST_DOMAINS = http://localhost:3000
+## My To Do List backend server
+
+What I use:
+
+```
+JWT
+body-parser
+express
+mongoose
+passport
+cors
+```
+
+Here to see [demo] site(dazzling-colden-ec2175.netlify.app)
